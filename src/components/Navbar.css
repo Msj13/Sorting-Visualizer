@@ -1,0 +1,25 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    width: 100vw;
+    min-width: 200px;
+    background: #B89456;
+}
+
+.button-container {
+    width: 25%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.new-array {
+    width: 25%
+}
+
+button {
+    padding: 5px;
+    background: #B89456;
+    color: #FDF4E4;
+}
